@@ -1,9 +1,17 @@
+<!--
+Creator: Nathan Allen
+Market: SF
+-->
+
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+
 # Wheel of Fortune - OO Ruby with Tests
 <img src="https://media.giphy.com/media/2SX8z3bnvJe3C/giphy.gif" width=400>
 
 In this lab you will be building a simplified Wheel of Fortune game using Ruby Classes and Rspec Tests.
 
-## Setup
+### Introduction
+
 First, make sure you've installed the `rspec` gem.
 
 From the command line (inside the cloned repo directory) run:
@@ -30,7 +38,7 @@ Instance of `WheelOfFortune` will have three important methods:
 * making guesses ("Can I have a 'z'...?")
 * printing the game board ("Wh__l of Fortun_")
 * checking if the game is over (true/false)
- 
+
 Follow the tests to get started!
 
 ## Tips
