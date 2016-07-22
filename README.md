@@ -12,13 +12,11 @@ In this lab you will be building a simplified Wheel of Fortune game using Ruby C
 
 ### Introduction
 
-First, make sure you've installed the `rspec` gem.
+First, make sure you've installed all of the dependencies.
 
 From the command line (inside the cloned repo directory) run:
 
 ```bash
-gem install rspec # individually install the rspec gem
-# or
 bundle install # install all the gems listed in the Gemfile
 ```
 
